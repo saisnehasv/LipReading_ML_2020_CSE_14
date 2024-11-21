@@ -101,7 +101,21 @@ python evaluation/metrics.py --model models/saved_model.h5 --test data/processed
 ## 🖥️ Run the project
 -  Run Perception.exe to upload a video and generate a video with subtitles. 
 
+## 🖼️ Screenshots
 
+### Intuitive Perception - Screen 1 
+![Screen 1](images/IP_Screen_1.jpeg)
+
+### Intuitive Perception - Screen 2
+![Screen 2](images/IP_Screen_2.jpeg)
+
+### Input and Process the Video
+![Input](images/Input_Video.jpeg)
+
+### Output and Results
+![Input](images/Output.jpeg)
+
+---
 ## 📊 Model Performance
 The CNN model achieved:
 
