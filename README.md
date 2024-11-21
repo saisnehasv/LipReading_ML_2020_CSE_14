@@ -70,10 +70,10 @@ src/
 ## 📋  Setup Instructions
 
 1. Clone the repository:
-   ```bash
+ ```bash
   git clone https://github.com/saisnehasv/LipReading_ML_2020_CSE_14.git
   cd LipReading_ML_2020_CSE_14/src
-   ```
+ ```
 
 2. Install the required dependencies:
    ```bash
